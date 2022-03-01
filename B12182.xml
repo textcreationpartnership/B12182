@@ -1,0 +1,837 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epigrames Serued out in 52. seuerall dishes for euery man to tast without surfeting. By I.C. Gent.</title>
+            <author>Cooke, Jo., fl. 1614.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12182</idno>
+            <idno type="STC">STC 5672</idno>
+            <idno type="STC">ESTC S118401</idno>
+            <idno type="EEBO-CITATION">99853608</idno>
+            <idno type="PROQUEST">99853608</idno>
+            <idno type="VID">18999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18999)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 883:08, 1133:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Epigrames Serued out in 52. seuerall dishes for euery man to tast without surfeting. By I.C. Gent.</title>
+                  <author>Cooke, Jo., fl. 1614.</author>
+                  <author>Can, John, fl. 1604, attributed name.</author>
+               </titleStmt>
+               <extent>[58] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Elde, for W. C[otton] and are to be solde at his shop neere vnto Ludgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1604?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Fyftie Epigrams written by J Cooke gent" ent. to W. Cotton 22 my 1604--STC.</note>
+                  <note>Sometimes also attributed to John Can.--STC.</note>
+                  <note>Publisher's name from and publication date conjectured by STC.</note>
+                  <note>Formerly also STC 7609.</note>
+                  <note>Identified as STC 7609 on UMI microfilm, reel 1133.</note>
+                  <note>Signatures: A-D (-A1,8 and D8, blank?).</note>
+                  <note>Imperfect: leaves B7,8 lacking.</note>
+                  <note>Reproductions of the original in the Bodleian Library.</note>
+                  <note>Appears at reel 883 #8 and at reel 1133 #2 (Bodleian Library copy filmed twice).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Epigrams, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:18999:1"/>
+            <pb facs="tcp:18999:2" rendition="simple:additions"/>
+            <pb facs="tcp:18999:2"/>
+            <p>EPIGRAMES.</p>
+            <p>Serued out in 52. ſeuerall <hi>Diſhes for euery man to</hi> taſt without ſurfeting.</p>
+            <q xml:lang="lat">Modicum non nocet.</q>
+            <p>By <hi>I. C.</hi> Gent.</p>
+            <p>LONDON Printed by <hi>G. Elde,</hi> for <hi>W.C.</hi> and are to be ſolde at his Shop neere vnto Ludgate.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:18999:3"/>
+            <pb facs="tcp:18999:3"/>
+            <head>To the Iudicious, Enuious <hi>and fooliſh Reader.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>O you al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but to thee Iudicious Reader, as moſt reſpected, I ſubmit my twelue nights tri<g ref="char:EOLhyphen"/>fles, (for ſo I may truely call them) being then made in<g ref="char:EOLhyphen"/>ſtead of Chriſtmas Carrols; I know thou ſha't finde manie errors in them, but I will not intreate thee to mend them, being too great a taske for thee, and my ſelfe hat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forborne to doe it. I publiſh them not to purchace fame, nor reward, for I proteſt I haue beene as carleſſe in writing them, as any reader can be in reading them, therefore I would deſire thee to thinke cha<g ref="char:EOLhyphen"/>ritably. As for you enuious Reader, I know your
+<pb facs="tcp:18999:4"/> mallice and ign<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rance is ſuch, that were they the choiceſt flowers that grow vpon the mount of <hi>Per<g ref="char:EOLhyphen"/>naſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> you would ſpitte your poyſon vpon them, therfore I haue preuented you and ſent you netles. But for my ſimple plaine dealing Reader, I know if he could here but a baudie ieſt he'd grin like his owne picture, and ſweare he had a good wit that made it, (I would be loath he ſhould be forſworne) yet I ſhal ſtil hold him <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imſelfe when he has ſpoke his beſt of me. But to my firſt Reader againe, the Romanes in their Epigrames did vſe the true names of thoſe they write of, and our Epigrami<g ref="char:EOLhyphen"/>tiſts do borrow their names of them, but I haue vſed baſtard names, ſuch as my fancie was fa<g ref="char:EOLhyphen"/>ther of, not waying whether they were pro<g ref="char:EOLhyphen"/>per to the nature of the Epigrame, as indeede there is no ſuch ne<g ref="char:EOLhyphen"/>ceſsitie. So fare<g ref="char:EOLhyphen"/>well.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb facs="tcp:18999:4"/>
+            <head>Epigrames.</head>
+            <div type="poem">
+               <head>1.</head>
+               <l>THeres an out-landiſh man now newly landed,</l>
+               <l>With rare inuen<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ons, rich conceited tires:</l>
+               <l>From Court vnto the Citty he is bandied,</l>
+               <l>To ſhew his wares which ſuddainely inſpires.</l>
+               <l>The inconſtant fancie of the fooliſh buyers,</l>
+               <l>The price is great, therefore the wares the better,</l>
+               <l>Halfe on't downe paid, halfe on't remaine his debtor</l>
+               <l>And this ſuperfluous waſte exp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce in ſpending,</l>
+               <l>Makes Courtiers euer borrowing, neuer lending.</l>
+               <l>Yet Ladies beſt ſpeed when thy ſpend moſt of all</l>
+               <l>For ſpend they nere ſo much their waſtes ſtill ſmall.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:5"/>
+               <head>2</head>
+               <l>THis ſtraunger now is ſent for to the Cittie,</l>
+               <l>Where he does ſhew ſome relique of a faſhion:</l>
+               <l>A great ruffe rare, a little one that's pretty,</l>
+               <l>Another excelent with alteration.</l>
+               <l>The Citty Damſels giue more and pay better:</l>
+               <l>That I conclude your Citties waſtes are greater.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:5"/>
+               <head>3</head>
+               <l>
+                  <hi>PHilo</hi> is iealious a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to his wife would proue,</l>
+               <l>That in a little iealouſie dwels much loue:</l>
+               <l>Which in her eare ſo often he did crie,</l>
+               <l>That ſhe at laſt began to edefie.</l>
+               <l>And ſaid deare husband henceforth I will be:</l>
+               <l>More ielous ouer you then you of me.</l>
+               <l>Which he likt well and wiſht it would be ſo:</l>
+               <l>And now with leſſe miſtruſt from home doth go.</l>
+               <l>The whilſt ſome friend ſteps in then doth ſhe feare,</l>
+               <l>And ſtill is iealous <hi>Philo</hi> thou art neare.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:6"/>
+               <head>4.</head>
+               <l>A Madbraine vickar in a deſperate moode,</l>
+               <l>Would ſometimes ſweare to play at dice was good</l>
+               <l>And he himſelfe would venter many a crowne,</l>
+               <l>Amongſt his beſt pariſhoners in the Towne.</l>
+               <l>The vicar loſt, yet knew no reaſon why:</l>
+               <l>Vnleſſe there were quick-ſiluer in the Die.</l>
+               <l>The Die was broake, quick-ſiluer there was none,</l>
+               <l>Yet was the vickars ſiluer quickly gone.</l>
+               <gap reason="missing" extent="3 pages">
+                  <desc>〈3 pages missing〉</desc>
+               </gap>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:6"/>
+               <head>8</head>
+               <l>WHat Gallant's this atir'd all in blacke,</l>
+               <l>It is no Cour<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ier ſure, nor what do you lacke,</l>
+               <l>Some ordinary Gallant ten to one,</l>
+               <l>That liueth idly here about the Towne,</l>
+               <l>What is it he, I know him tis a Gull,</l>
+               <l>Thats conicatcht by euery ſcuruy trull,</l>
+               <l>His father's lately dead and he is heire,</l>
+               <l>Of large poſſeſſions and reuenues faire,</l>
+               <l>I haue heard ſome ſay, great Lordſhips to him fall,</l>
+               <l>Yet this I am ſure his maners are but ſmall.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:7"/>
+               <head>9.</head>
+               <l>ANother Gallant who was light of heele,</l>
+               <l>Would take vpon him for to runne with any,</l>
+               <l>For he had run round about fortunes wheele,</l>
+               <l>And neuer yet was he out run by any,</l>
+               <l>He ran, and ran, ſome twenty yeares together,</l>
+               <l>And neuer lookt behinde him, till he met,</l>
+               <l>A Seriant at the ſhoulder, clad in leather,</l>
+               <l>Then he perceiu'd how he had runne in debt,</l>
+               <l>And now began to ſtay, yet he muſt on,</l>
+               <l>En'e faire and ſoftly vnto priſon.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:7"/>
+               <head>10.</head>
+               <l>
+                  <hi>VArius</hi> the traueller who doth not know,</l>
+               <l>That has bin fu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther than any map can ſhow,</l>
+               <l>O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ventious <hi>Drak<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Haukins,</hi> or <hi>Forbiſher;</hi>
+               </l>
+               <l>None ere receiu'd like grace of the Emperor,</l>
+               <l>The <hi>Sophi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> &amp; he ſworne brothers, twas his lot,</l>
+               <l>To drinke carouſe in <hi>Solymans</hi> owne pot,</l>
+               <l>Yet here he ſtaid not long, but ſtill went on,</l>
+               <l>To take acquaintance of great <hi>Praſtor Iohn,</hi>
+               </l>
+               <l>Where he was welcome and it was his chance,</l>
+               <l>To kiſſe his empreſſe, and with his daughter dance,</l>
+               <l>His lies are monſtrous great, and yet but young,</l>
+               <l>
+                  <hi>Gargantua</hi> ſure was father of his Tounge.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:8"/>
+               <head>11</head>
+               <l>A Pretty Creature of the lighteſt faſhion,</l>
+               <l>Was early once inuited to a marriage,</l>
+               <l>Before the Cocke had giuen l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt relation,</l>
+               <l>Of the worlds beauty burner on his carriage,</l>
+               <l>Vp ſhe was got, and got vnto her Truncke,</l>
+               <l>Wherein complexions were that better'd natures,</l>
+               <l>The very Daffa-downe-dilly of a Puncke,</l>
+               <l>Beſides her Art puts downe Venetian features,</l>
+               <l>But now, either becauſe of haſt, or want of light,</l>
+               <l>Painted her face all red and her lips whight.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:8"/>
+               <head>12</head>
+               <l>WHo er'e will go vnto the preſſe may ſee,</l>
+               <l>The hated Fathers of vilde balladrie,</l>
+               <l>One ſings in his baſe note the Riuer Thames,</l>
+               <l>Shal ſound the famous memory of noble king <hi>Iames</hi>
+               </l>
+               <l>Another ſayes that he will to his death,</l>
+               <l>Sing the renowned worthineſſe of ſweet <hi>Elizabeth,</hi>
+               </l>
+               <l>So runnes their verſe in ſuch diſordered ſtraine,</l>
+               <l>And with them dare great maieſty prophane,</l>
+               <l>Some dare do this, ſome other humbly craues,</l>
+               <l>For helpe of ſpirits in their ſleeping graues,</l>
+               <l>As he that calde to <hi>Shakeſpeare, Iohnſon, Greene,</hi>
+               </l>
+               <l>To write of their dead noble Queene,</l>
+               <l>But he that made the Ballads of oh hone,</l>
+               <l>Did wondrous well to whet the buyer on,</l>
+               <pb facs="tcp:18999:9"/>
+               <l>Theſe fellowes are the ſlaunderers of the time,</l>
+               <l>Make ryming hatefull through their baſtard rime.</l>
+               <l>But were I made a iudge in poetry,</l>
+               <l>They all ſhould burne for their vilde hereſie.</l>
+            </div>
+            <div type="poem">
+               <head>13.</head>
+               <l>
+                  <hi>CLodio</hi> ſome for thy feather take thee for a horſe</l>
+               <l>All for an Aſſe if thou but once diſcourſe.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:9"/>
+               <head>14</head>
+               <l>WHen <hi>Gatra</hi> died great ſtore of wealth was fou<g ref="char:cmbAbbrStroke">̄</g>d</l>
+               <l>In cofers, truncks, great cheſts, &amp; leather bags,</l>
+               <l>In cubberds, hampers, and vaults vnder ground,</l>
+               <l>Iewels wrapt vp (in pollicie) with rags.</l>
+               <l>Some ſay he got more then the begger did,</l>
+               <l>That was ſo ritch and excellent at the trade,</l>
+               <l>Others thinke deuils mong'ſt his Angels hid,</l>
+               <l>Who vp to the necke in Common-wealth did wade</l>
+               <l>He was no Marchant beater of the burſe,</l>
+               <l>Nor neuer pleading at the barre did braule,</l>
+               <l>Yet he found meanes to bumbaſt out his purſe,</l>
+               <l>For many ſay he got the deuill and all,</l>
+               <l>Well ſay he did, it ſeemes he let him goe,</l>
+               <l>But now the diuell has him hele not do ſo.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:10"/>
+               <head>An Epita.</head>
+               <l>HEre lyes the man who dyed in paine,</l>
+               <l>Yet would haue liu'd to haue dyed againe,</l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Stone</hi> the Ieſter.</head>
+               <head>15</head>
+               <l>LOoke at what time Pomgranets do wax ſcant,</l>
+               <l>At the ſame time <hi>Stone</hi> witty ieſts doth want,</l>
+               <l>Then gainſt <hi>Paules</hi> pillers or ſome other poſt,</l>
+               <l>He leanes to finde his chapman whole giue moſt.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> oftentimes and others muſe at it,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o great a head ſhould haue ſo little wit,</l>
+               <l>The miracles not ſo great the ieſt once knowne,</l>
+               <l>Who i'ſt would looke for wit in any Stone.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:10"/>
+               <head>16</head>
+               <l>I Gaue Coxhead more title to his name,</l>
+               <l>And cal'd him Coxcombe for his greater fame,</l>
+               <l>But he was angry, was he not a mome?</l>
+               <l>Who euer ſaw Coxhead without a Combe.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:11"/>
+               <head>17</head>
+               <l>
+                  <hi>CLogo</hi> is knighted, but he knowes not by whom,</l>
+               <l>Sayes twas by a fine man and in a fine roome,</l>
+               <l>Well fare his wife yet, who is not ſuch a babie,</l>
+               <l>But knowes what foole it was made her a Lady.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:11"/>
+               <head>18</head>
+               <l>IF any man looke but on <hi>Dabus</hi> wife,</l>
+               <l>He is ſtraight a Cuckolde he dares lay his life,</l>
+               <l>But if one talke with her then it is ſo,</l>
+               <l>Though all the ſooth-ſayers in the Towne ſay no,</l>
+               <l>But if you kiſſe her ay then he is vp in blood,</l>
+               <l>And ſweares ſhe beares two faces vnder one hoode.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:12"/>
+               <head>19</head>
+               <l>ALl <hi>Sims</hi> valour conſiſts in his Tounge,</l>
+               <l>He ſwore full mouth'd oathes,</l>
+               <l>He'd pocket vp no wrong,</l>
+               <l>When we that were with him,</l>
+               <l>Beleft him ſoone.</l>
+               <l>For wrongfully he did pocket vp,</l>
+               <l>A guilt ſiluer ſpoone.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:12"/>
+               <head>20</head>
+               <l>VNconſtant Fortune partiall in thy guifts,</l>
+               <l>Who puts poore gentle men vnto their ſhifts,</l>
+               <l>And croſſeſt them, and them vncroſſe againe,</l>
+               <l>For to be croſt you know is a helliſh paine,</l>
+               <l>But to be vncroſt, why ti's ten times worſe,</l>
+               <l>To haue more ſiluer on the ſword then purſe.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:13"/>
+               <head>21</head>
+               <l>WHy is baſe <hi>Nemius</hi> iudged to be ritch,</l>
+               <l>Becauſe he lookes ſo grim and weares ſeale rings,</l>
+               <l>Or cauſe he buyes commodities of Fiſh,</l>
+               <l>Of Cheeſe, of Butter and ſuch other things,</l>
+               <l>Or iſt becauſe he talkes of Bondes and Billes,</l>
+               <l>Of Leaſes, and of morgaging of Land,</l>
+               <l>Of Lordſhips, Mannors, and of making willes,</l>
+               <l>Of many paunes that lie vpon his hand,</l>
+               <l>Or is't becauſe like a great Alderman,</l>
+               <l>He weares a gown lac't round, laid down with furre,</l>
+               <l>Or miſer like a pouch where neuer man,</l>
+               <l>Could thruſt his finger but this Iſland curre.</l>
+               <l>All theſe are ſignes that he is not belyed,</l>
+               <l>And yet he has ten thouſand markes beſide.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:13"/>
+               <head>22</head>
+               <l>
+                  <hi>MOunſir Montaingnis</hi> to the Tailor owes,</l>
+               <l>Some forty ſhillings for his ſwaggering hoſe,</l>
+               <l>Taylor for mony came, <hi>Mounſir</hi> was ill,</l>
+               <l>Could not endure to looke vpon his bill,</l>
+               <l>The Taylor ſeeing that did him this grace,</l>
+               <l>To leaue his bill behinde but brought a mace.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:14"/>
+               <head>23</head>
+               <l>IF any man of monſters chance to talke,</l>
+               <l>Or big boand Giants that this land did walke,</l>
+               <l>
+                  <hi>Cacus</hi> ſteps forth and telles you of his Sire,</l>
+               <l>And his long may-pole legs which reached higher,</l>
+               <l>Then ſtrong imagination will giue leaue,</l>
+               <l>Or probability of truth receiue,</l>
+               <l>T'is but to ſignifie vnto this age,</l>
+               <l>His monſtrous birth and high borne parentage,</l>
+               <gap reason="missing" extent="4 pages">
+                  <desc>〈4 pages missing〉</desc>
+               </gap>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:14"/>
+               <head>28.</head>
+               <l>
+                  <hi>LAis</hi> all of deformity is compact,</l>
+               <l>Splay-footed beetle-brow'd, crook't-backe,</l>
+               <l>I ask't her how it came ſhe anſwers all,</l>
+               <l>When ſhe was yong by an vnhappy fall:</l>
+               <l>But <hi>Lais, Lais,</hi> you might auoyded well,</l>
+               <l>The fall you had which made your belly ſwell.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:15"/>
+               <head>29</head>
+               <l>
+                  <hi>IAnus</hi> the ritch fat vſurer deſird,</l>
+               <l>To be a knight and yet was loath to giue,</l>
+               <l>The compleate ſumme which of him was requird,</l>
+               <l>And once a yeare a feaſt while he did liue.</l>
+               <l>Ambition yet gaue couetouſnes a blow,</l>
+               <l>That ſtroke two hundred pounds out of his purſe,</l>
+               <l>But of his knighthood ſuch great charge doth grow</l>
+               <l>That he repents of what he did disburſe,</l>
+               <l>And wiſely now his knighthood doth compare,</l>
+               <l>To pickle herring or tough martlemas beife,</l>
+               <l>(Which being eaten not for common faire)</l>
+               <l>Though it be ready bought yet playes the theefe,</l>
+               <l>meaning as thoſe ſalt meates do ſteale down drinke</l>
+               <l>So doth his knight-hood ſteale away his chinke.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:15"/>
+               <head>30</head>
+               <l>A Foole ſaith <hi>Clinius</hi> euery one would make him</l>
+               <l>I thinke they haue don't for ſo al men take him</l>
+               <l>Ti's marle they will offer being ſo common a rule,</l>
+               <l>For him himſelfe, to make himſelfe a foole.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:16"/>
+               <head>31</head>
+               <l>LOrd what a colle there was to be a Lady,</l>
+               <l>By miſtris <hi>Wood been</hi> a gentlewoman,</l>
+               <l>Wife to yong <hi>Hary holdfaſt,</hi> Knight that may be,</l>
+               <l>Nay will be, though his fathers but a yeoman</l>
+               <l>Madnes has ceaſ'd on his wiues troubled braine,</l>
+               <l>Becauſe the preſent time ſhe was no Lady,</l>
+               <l>He ſeekes to comfort her and eaſe her paine,</l>
+               <l>She does not like this ſhall be nor this may be,</l>
+               <l>Shall <hi>Maulkin</hi> milke-maide her high words exalt,</l>
+               <l>In euery place before me I abhorre it,</l>
+               <l>Whoſe freſh gentillity was pickt from malt,</l>
+               <l>What reaſon law or conſcience haue you for it,</l>
+               <l>Away he went in haſt, home knighted came,</l>
+               <l>And ſhe was turnd from a mad dame to madam.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:16"/>
+               <head>23</head>
+               <l>
+                  <hi>FVrius</hi> a louer was, and had louing fits,</l>
+               <l>He lou'd ſo madly that he loſt his wits,</l>
+               <l>Nay he loſt nought yet grant I he was mad,</l>
+               <l>How could he looſe that which he neuer had.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:17"/>
+               <head>33</head>
+               <l>WHen Muske &amp; Ciuet two nere kinſmen meete,</l>
+               <l>Each other in the middle Ile of <hi>Paules,</hi>
+               </l>
+               <l>Straight they incounter with embraces ſweete,</l>
+               <l>From head vnto the foote each other falles,</l>
+               <l>Theile daunce a galliard out in complement,</l>
+               <l>And chaine each other to the boſome faſt,</l>
+               <l>Then ſay their prayers in curtſie and repent,</l>
+               <l>The negligence that hath betweene them paſt,</l>
+               <l>Then breath a while, without a word make ſtay.</l>
+               <l>Salute a freſh againe and ſo away.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:17"/>
+               <head>34.</head>
+               <l>A Curious Gallant chanc't to haue a ſight,</l>
+               <l>Of theſe ſlight Epigrames firſt infancie,</l>
+               <l>Who Pedunt wiſe did tax them (not for ſpight)</l>
+               <l>Of their lame harſh vnmeaſurd quantities,</l>
+               <l>They halt not ſo to lie vpon the pariſh,</l>
+               <l>As much to ſay vpon the Printers hand,</l>
+               <l>The hole hath promiſed the lame to cheriſh,</l>
+               <l>But now he findes two Adiectiues to ſtand,</l>
+               <l>Ioyned together that ſmall fault or none,</l>
+               <l>One Adiectiue can neuer ſtand alone,</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:18"/>
+               <head>An Epitath vpon <hi>Singer.</hi>
+               </head>
+               <l>DEath was ſo bolde his dayes to ſhorten,</l>
+               <l>Who altogether liu'd by fortune.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:18" rendition="simple:additions"/>
+               <head>35</head>
+               <l>
+                  <hi>SYlla</hi> hath many parts that blaſe her fame,</l>
+               <l>All do not know her that know her name,</l>
+               <l>She Makes a Lute ſpeake in his airy voice,</l>
+               <l>Will force ſad melanchollies ſelfe reioyce,</l>
+               <l>The Syrens tunes bewitching Trauailer,</l>
+               <l>Themſelues would be bewitcht ſhould they here her</l>
+               <l>Daunces without compare, paints beſt in Towne,</l>
+               <l>Yet for all this I know one puts her downe.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:19"/>
+               <head>36</head>
+               <l>A Worthy Lady of great eminence,</l>
+               <l>Who holds all borrowed beauty in diſdaine,</l>
+               <l>Out of whoſe wiſedome ſhines her excellence,</l>
+               <l>The Muſes are attendant on her traine,</l>
+               <l>And they doe her and ſhe doth them ſuſtaine,</l>
+               <l>Her acute iudgement did vouchſafe to reede,</l>
+               <l>An Epigrame which this Booke doth containe,</l>
+               <l>And pai'd in words what ſhe will pay in deed,</l>
+               <l>(For Ladies nere make promiſes in vaine)</l>
+               <l>Were ſo much giuen for one iſt not a fall,</l>
+               <l>That for a Teſter (Reader) thou haſt all.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:19"/>
+               <head>Aenigma.</head>
+               <l>THe Court hath got the Citty with Childe,</l>
+               <l>Which well hath coſt their purſe,</l>
+               <l>The Country with it is be guild,</l>
+               <l>With whom it is at nurſe.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:20"/>
+               <l>THere is a thing which barkes not, yet doth bite,</l>
+               <l>Worſe then the wildeſt beaſt A ()</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:20"/>
+               <head>37</head>
+               <l>
+                  <hi>PHrigio</hi> lay bed-rid now lies in his graue,</l>
+               <l>Look't like a ſpittleman and worſe diſeaſed,</l>
+               <l>His wife freſh, luſty, ſtately, gallant, braue,</l>
+               <l>Yet the ſame ſicknes was on her encreaſed,</l>
+               <l>Which ſhe brock't well, and made not ſuch a doe,</l>
+               <l>As you did <hi>Phrigio</hi> yet lay bed-rid to.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:21"/>
+               <head>An Epita.</head>
+               <l>HEre lies he knowne to his furd Cloake,</l>
+               <l>Liu'd like the Salamander by fire and ſmoake.</l>
+            </div>
+            <div type="poem">
+               <head>38</head>
+               <l>
+                  <hi>MVn</hi> has a wife but knowes not how to vſe her,</l>
+               <l>And yet he knowes too wel how to abuſe her.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:21"/>
+               <head>39</head>
+               <l>
+                  <hi>FIcus</hi> was fat in body and in purſe,</l>
+               <l>And vnto Sea is gone himſelfe to purge,</l>
+               <l>Some fifteene hunderd markes he did disburſe,</l>
+               <l>To receiue three for one, a tempting ſcourge,</l>
+               <l>To whip my Gallant vp the ſurging ſeas,</l>
+               <l>And daunce to Venice with a whiſtling winde,</l>
+               <l>There to euacuate for ſtomachs eaſe,</l>
+               <l>The home-bred crudities his fleſh did bind,</l>
+               <l>Of him we haue not heard vnto this day,</l>
+               <l>That I beleeue he's purged all away.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:22"/>
+               <head>40.</head>
+               <l>
+                  <hi>SEignior</hi> Tobacco that braue Caualier,</l>
+               <l>Came ſwaggering fro<g ref="char:cmbAbbrStroke">̄</g> the Tauerne here &amp; there</l>
+               <l>From wall to kennell, from kennell to the wall,</l>
+               <l>Was not land roome enough for him to ſaile,</l>
+               <l>At laſt he meetes a Dray-man with his carte,</l>
+               <l>And much good ſport there was ere they did part,</l>
+               <l>For about wine and beare they did diſcourſe,</l>
+               <l>Yet he knew not the Brewer from his horſe.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:22"/>
+               <head>41</head>
+               <l>A Country man who had ſome ſuite belike.</l>
+               <l>(With a blacke box downe pendant at his ſide)</l>
+               <l>Walking from Weſtminſter the ſtones did ſtrike,</l>
+               <l>With his naild ſhooes that euery ſtep did ſlide,</l>
+               <l>So came he making legs vp Ludgate hill,</l>
+               <l>And lookt as if he'd eate what he had ſeene,</l>
+               <l>At laſt he Ludgate ſpied and then ſtood ſtill,</l>
+               <l>Gaping vpon the picture of the Queene,</l>
+               <l>The priſoner gan his cry, then he for feare,</l>
+               <l>Started and askt if there the Lyons were.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:23"/>
+               <head>42</head>
+               <l>
+                  <hi>SIſlie</hi> reports Angels appeare to her,</l>
+               <l>And comforts her in all extremity,</l>
+               <l>Nay and beſides they do preſſe neare to her,</l>
+               <l>Promiſing aide in great'ſt calamity,</l>
+               <l>But this you muſt ſuppoſe they come in night,</l>
+               <l>For <hi>Siſlies</hi> Angels neuer came in ſight.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:23"/>
+               <head>43</head>
+               <l>
+                  <hi>SYlla</hi> can play on any inſtrument,</l>
+               <l>Yet neuer doth ſhe worke her owne content,</l>
+               <l>The reaſon is ſo they that know her ſay,</l>
+               <l>Becauſe ſhe giues her minde too much to play.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:24"/>
+               <head>44</head>
+               <l>
+                  <hi>CAius</hi> thus complements at dinner, ſir will you ſit</l>
+               <l>By Ieſus Chriſt I will not eate a bit,</l>
+               <l>Vntill you come, but ſtraight doth call for beare,</l>
+               <l>Then by your fauour ſir, pleaſe you be here,</l>
+               <l>What wine do you drinke to aske hele neuer miſſe,</l>
+               <l>But hele be ſure you ſhall drinke none of his.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:24"/>
+               <head>45.</head>
+               <l>A Wondrous thing, olde <hi>Phiro</hi> goes a woing,</l>
+               <l>To ſhew himſelfe a Maid, longs to be doing.</l>
+            </div>
+            <div type="poem">
+               <head>46</head>
+               <l>PHantaſtique Pedants ſay theſe Poets are,</l>
+               <l>The vaineſt fellowes that liue vpon the earth,</l>
+               <l>In <hi>Platoes</hi> Common-wealth they baniſh'd were,</l>
+               <l>For ther's no muſicke in them nor no mirth,</l>
+               <l>But whats the reaſon they thus Poets blame,</l>
+               <l>Becauſe their dearth of wit requires the ſame.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:25"/>
+               <head>Epita.</head>
+               <l>HEre lies an Aſtronomer that ſtudied by the rule</l>
+               <l>Dyed becauſe the Starres allotted him a foole.</l>
+            </div>
+            <div type="poem">
+               <head>47</head>
+               <l>I Talkt with <hi>Iulia</hi> in good modeſt phraiſe,</l>
+               <l>But ſhe my meanings and my words diſpraiſe,</l>
+               <l>And in a coyneſſe thus replies to me,</l>
+               <l>I am not her you take me ſir to be,</l>
+               <l>Well <hi>Iulia,</hi> ile beleeue what you haue ſaid,</l>
+               <l>But ile beſworne I tooke you for a maide.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:25"/>
+               <head>48</head>
+               <l>
+                  <hi>CLinius</hi> miſdoubtes himſelfe, ſayes that all men,</l>
+               <l>Doe ride and play vpon him now and then,</l>
+               <l>Fie <hi>Clinius</hi> fie, neuer make ſuch ſtrife,</l>
+               <l>Better they play on you then on your wife.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:26"/>
+               <head>49</head>
+               <l>
+                  <hi>LVcius</hi> proteſteth his loue blinded ſight,</l>
+               <l>Sees in the darke beſt by his miſtris light,</l>
+               <l>Or his light miſtris, and it well may be,</l>
+               <l>For light Owles, do by Owle-light cleareſt ſee.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:26"/>
+               <head>50</head>
+               <l>WHen <hi>Dicke</hi> a letter to his ritch vncle writ,</l>
+               <l>He ſuperſcrib'd it to the R. worſhipfull,</l>
+               <l>Now I knew what he meant and ſmild at it,</l>
+               <l>To thinke how he would gul the kings leige people</l>
+               <l>He would haue writ the word right out at large,</l>
+               <l>But that he thought was not his vnckles due,</l>
+               <l>Yet I vpon me tookt for his diſcharge,</l>
+               <l>To make it ritch and that I am ſure was true,</l>
+               <l>Iudge where I wrong'd him now, or did't on ſpight</l>
+               <l>When I am ſure he would haue had it right.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:27"/>
+               <head>51.</head>
+               <l>
+                  <hi>FIcus</hi> hath loſt his noſe, but knowes, not how,</l>
+               <l>And that ſeems ſtrange to euery one that knows it,</l>
+               <l>My thinkes I ſee it written in his brow,</l>
+               <l>How, wherefore, and the cauſe that he did loſe it,</l>
+               <l>To tell you true <hi>Ficus</hi> I this ſuppoſe,</l>
+               <l>Twas ſome French Caniball bit of your noſe.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:27" rendition="simple:additions"/>
+               <head>52</head>
+               <l>
+                  <hi>ANtonio Flora</hi> ſtabd good reaſon why,</l>
+               <l>He being a Souldier ſhe gaue him the lie,</l>
+               <l>And yet the deſperate wench would nere refraine,</l>
+               <l>To giue it him till ſhe was ſtabd againe.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:28"/>
+               <head>An Epigrame vpon a Booke intituled the <hi>three Siſters, to a new Straine.</hi>
+               </head>
+               <lg>
+                  <l>STraind he not hard (thinke you) that ſtraind ſuch ſence,</l>
+                  <l>From the three Siſters in their difference,</l>
+                  <l>To deale with Widdow, Wife, and Maid was paine,</l>
+                  <l>That it was marl'e he did not ouerſtraine.</l>
+               </lg>
+               <lg>
+                  <l>REader I know not how I haue pleas'd thy mind,</l>
+                  <l>With theſe rude Epigrams harſh vnrefind,</l>
+                  <l>But if they be not dreſt vnto thy taſte,</l>
+                  <l>Then blame the Cooke for making too much haſt,</l>
+                  <l>Ile ner'e make promiſe to remaine thy debter,</l>
+                  <l>But if thou likſt them not, would thou hadſt better.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poems">
+            <pb facs="tcp:18999:28"/>
+            <div type="poem">
+               <byline>Per Ignotum.</byline>
+               <head>Latet anguis in herba.</head>
+               <l>WHen periur'd <hi>Exlex,</hi> with his lawyers bragges,</l>
+               <l>Had me diſcarded of my golden bags,</l>
+               <l>Feeding my minde with hope of victory,</l>
+               <l>By right of law and Iuſtice equity,</l>
+               <l>Next terme to Weſtminſter I poſt in haſt,</l>
+               <l>Where I was throwne &amp; iudgement gainſt me paſt,</l>
+               <l>All things went croſſe, I loſt the fees and farme,</l>
+               <l>Rode home to <hi>Exlex,</hi> crau'd of him to learne</l>
+               <l>The reaſon why: bending his angry brow,</l>
+               <l>O ſir quoth he the caſe is altred now.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:18999:29"/>
+               <head>Nocumenta, Documenta.</head>
+               <l>
+                  <hi>LVxurio</hi> now diſdaines luſtfull deſire,</l>
+               <l>For ſtill you know the burnt childe dreades the fire.</l>
+            </div>
+            <div type="poem">
+               <head>In naſum.</head>
+               <l>
+                  <hi>NAſus</hi> is ritch, indeede I ſo ſuppoſe,</l>
+               <l>Can he be poore that hath a ruby noſe.</l>
+            </div>
+            <div type="poem">
+               <head>Sic Iter ad aſtra.</head>
+               <l>INdeed in ſooth, away preſitian,</l>
+               <l>Sweare bloody othes, I that becomes a man:</l>
+               <l>Indeede I ſee ſuch othes makes many a one,</l>
+               <l>Come to the height of <hi>Buis</hi> promotion.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:18999:29" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
